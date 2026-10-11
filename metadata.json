@@ -1,0 +1,6 @@
+{
+  "name": "CoinPulse - Crypto Up/Down Prediction Demo",
+  "description": "Next-generation cryptocurrency Up/Down binary prediction trading terminal demo featuring real-time simulated charts, virtual demo wallet, transparent ledger, and risk-free market practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
